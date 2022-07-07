@@ -1,0 +1,26 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/ 
+  
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Achievements"
+    url: /grants-awards/    
+    
+  - title: "Experiences"
+    url: /service/
+  
+  # - title: "Blog Posts"
+   # url: /year-archive/
+    
+  - title: "CV"
+    url: /files/CV_Dhiraj_Web.pdf
+    
+  # - title: "Gallery"
+   # url: /moments/
+    
+  - title: "Contacts"
+    url: /contacts/
