@@ -24,6 +24,6 @@ Skills
 * Machine Learning and statistical tools: Matlab/Octave, ScikitLearn, WEKA and MOA, GNUPlot, R (limited exposure).
 * Operating Systems: Windows, Unix, Mac (limited exposure)
 
-### See my CV [<span style="color:green">*here*</span>](http://dhirajneupane.github.io/academicsPortfolio_DN/files/CV_Dhiraj_Web.pdf "CV"){:target="_blank"}
+### See my CV [<span style="color:green">*here*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/CV_Dhiraj_Web.pdf "CV"){:target="_blank"}
 
 <!--
