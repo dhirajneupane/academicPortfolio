@@ -15,6 +15,6 @@ Hello, नमस्ते, 안녕하세요. I am Dhiraj Neupane, a deep learning
 
 Apart from academics, I was also envolved in various clubs and organizations. I served as the President of [Society of Electrical and Electronics Engineers Kathamndu University (SEEE- KU)](http://seee.ku.edu.np/board-members-2015-16/){:target="_blank"}, for the year 2015-16. I  also worked as the Joint Secretary and Executive member of [Amnesty International Kathmandu University Youth Network (AIKUYN)](https://www.facebook.com/aikuyn/){:target="_blank"} for the year 2014-15 and 2013-14 respectively.
 
-My research interests include machine learning, deep learning, intelligent fault detection, sonar signal processing, computer vision, object detection, and classification. I have published few articles in high-tier journals. You can check them at [Publication](https://www.neupanedhiraj.com.np//publications/){:target="_blank"} section or at my [Google Scholar Profile](https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en){:target="_blank"}.
+My research interests include machine learning, deep learning, intelligent fault detection, sonar signal processing, computer vision, object detection, and classification. I have published few articles in high-tier journals. You can check them at [Publication](https://www.er-dhiraj.com.np/publications/){:target="_blank"} section or at my [Google Scholar Profile](https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en){:target="_blank"}.
 
 
