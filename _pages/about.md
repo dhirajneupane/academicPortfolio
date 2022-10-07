@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> Never let a computer know you're in Hurry.
+> The pursuit of PhD is an enduring daring adventure.
 
 > <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
 
