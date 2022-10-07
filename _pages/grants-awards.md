@@ -7,6 +7,7 @@ redirect_from:
   - /grants-awards
 ---
 ## Grants
+* Receiving Deakin University Postgraduate Research Scholarship (DUPRS) [2022-]
 * Received Changwon National University International Students Full Scholarship during MS studies [2019-2021]
 * Graduate Research Assistantship in MS from Changwon National University [2019-2021]
 * Sejong University Industry-Academic Cooperation Grant [2019]
