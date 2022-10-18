@@ -10,7 +10,7 @@ redirect_from:
 Physical
 --------------
 
-Jinju-Si, South Korea [Current]
+Belmont, VIC, Australia [Current]
 
 Kailali, Nepal [Permanent]
 
