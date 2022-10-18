@@ -13,7 +13,8 @@ redirect_from:
 
 Professional Experiences
 -----------------------
-* **Deep Learning Researcher** at _IPCamp, South Korea_ [September 2021 - Present]
+* **PhD Research Student** at _School of IT, Deakin University, Geelong. Australia_ [SOctober 2022- Present]
+* **Deep Learning Researcher** at _IPCamp, South Korea_ [September 2021 - August 2022]
 * **Graduate Research Assistant** at _Department of Information and Communcation Engineering, Changwon National University, South Korea_ [March 2019 - February 2021]
 * **Operation Assistant** at _Nepal Electronic Payment Systems, Nepal_ [April 2018 - February 2019]
 * **Secondary-Level School Teacher** at _Shree Marigold Academy Vidhya Mandir, Nepal_ [October 2016 - April 2018]
