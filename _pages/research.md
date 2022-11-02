@@ -31,7 +31,7 @@ Research Interest
 **Completed Projects**
 ----------------
 * [<span style="color:green">AI-based Disability parking Management System at Disability Welfare Center</span>](http://amenews.kr/m/view.php?idx=48978){:target="_blank"}, Jinju-si, South Korea
-* [<span style="color:green">AI-based Disability Parking Management System in Gimpo International Airport</span>]([http://amenews.kr/m/view.php?idx=48978](https://www.boannews.com/media/view.asp?idx=109024)){:target="_blank"}, Seoul, South Korea
+* [<span style="color:green">AI-based Disability Parking Management System in Gimpo International Airport</span>](https://www.boannews.com/media/view.asp?idx=109024)){:target="_blank"}, Seoul, South Korea
 
 
 **Ongoing Research Projects**
