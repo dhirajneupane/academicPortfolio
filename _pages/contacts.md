@@ -21,7 +21,7 @@ Digital
 
 <b>[<span style="color:green">*About Me*</span>](https://about.me/dhirajneupane){:target="_blank"} </b>
 
-<b>[<span style="color:green">*Email*</span>](mailto:d.neupane@research.deakin.edu.au){:target="_blank"} </b>
+<b>[<span style="color:green">*Email*</span>](mailto:d.neupane@deakin.edu.au){:target="_blank"} </b>
 
 <b>[<span style="color:green">*Github*</span>](https://github.com/dhirajneupane){:target="_blank"} </b>
 
