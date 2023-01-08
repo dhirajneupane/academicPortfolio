@@ -1,7 +1,7 @@
 ---
 title: ''
 date: 2029-05-16
-permalink: /posts/2023/01/poem1/
+permalink: /posts/2023/01/lit-1/
 tags:
   - Poem
   - Nepali Poem
