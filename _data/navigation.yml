@@ -20,7 +20,7 @@ main:
     url: /files/CV_Dhiraj_Web.pdf
     
    - title: "Literatures"
-   # url: /hobby/
+    url: /hobby/
     
   - title: "Contacts"
     url: /contacts/
