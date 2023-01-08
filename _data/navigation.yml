@@ -13,14 +13,14 @@ main:
   - title: "Experiences"
     url: /service/
   
-  # - title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Literature"
+   # url: /hobby/
     
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
     
-   - title: "Literatures"
-    url: /hobby/
+   # - title: "Literatures"
+    # url: /hobby/
     
   - title: "Contacts"
     url: /contacts/
