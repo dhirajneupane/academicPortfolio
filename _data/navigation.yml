@@ -19,8 +19,5 @@ main:
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
     
-   # - title: "Literatures"
-    # url: /hobby/
-    
   - title: "Contacts"
     url: /contacts/
