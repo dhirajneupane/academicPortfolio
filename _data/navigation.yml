@@ -22,5 +22,5 @@ main:
   - title: "Contacts"
     url: /contacts/
     
-  - title: "Anything"
-    url: http://dhirajneupane.com.np/
+  #- title: "Anything"
+  #  url: http://dhirajneupane.com.np/
