@@ -13,8 +13,8 @@ main:
   - title: "Experiences"
     url: /service/
   
- # - title: "Literature"
-  #  url: /year-archive/
+  - title: "Literature"
+    url: /year-archive/
     
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
@@ -22,5 +22,5 @@ main:
   - title: "Contacts"
     url: /contacts/
     
- - title: "Anything"
-   url: http://dhirajneupane.com.np/
+  - title: "Anything"
+    url: http://dhirajneupane.com.np/
