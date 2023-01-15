@@ -13,8 +13,8 @@ main:
   - title: "Experiences"
     url: /service/
   
- # - title: "Literature"
- #   url: https://www.er-dhiraj.com.np/posts/
+  - title: "Literature"
+    url: https://www.er-dhiraj.com.np/posts/
     
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
