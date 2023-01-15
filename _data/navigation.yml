@@ -14,7 +14,7 @@ main:
     url: /service/
   
  # - title: "Literature"
- #   url: /year-archive/
+ #   url: https://www.er-dhiraj.com.np/posts/
     
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
