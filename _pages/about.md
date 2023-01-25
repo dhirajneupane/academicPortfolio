@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> The pursuit of PhD is an enduring daring adventure.
+> Never confuse education with intelligence, you can have a PhD and still be an idiot.
 
 > <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
 
