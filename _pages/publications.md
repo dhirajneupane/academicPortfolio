@@ -21,6 +21,6 @@ Conference papers
 
 Thesis
 --------------------------
-* MS Thesis: <b>Neupane Dhiraj</b>. “Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN.” <i>Changwon National University, South  Korea</i>, 2020, [<span style="color:green">*DOI:10.13140/RG.2.2.28947.14885*</span>]( https://www.researchgate.net/publication/367458109_Bearing_Fault_Detection_Using_Scalogram_and_Switchable_Normalization-Based_CNN){:target="_blank"}.
+* <i>MS Thesis:<i/> <b>Neupane Dhiraj</b>. “Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN.” <i>Changwon National University, South  Korea</i>, 2020, [<span style="color:green">*DOI:10.13140/RG.2.2.28947.14885*</span>]( https://www.researchgate.net/publication/367458109_Bearing_Fault_Detection_Using_Scalogram_and_Switchable_Normalization-Based_CNN){:target="_blank"}.
 
 ### See my Google Scholar Profile [<span style="color:green">*here*</span>](https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en){:target="_blank"}
