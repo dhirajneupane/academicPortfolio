@@ -28,7 +28,3 @@ Digital
 
 <b>[<span style="color:green">*ORCiD*</span>](https://orcid.org/0000-0001-6548-311X){:target="_blank"} </b>
 
-QR Codes
------------
-{% include image.html url="/images/DN_ORCID.png" description="ORCiD" %}
-
