@@ -19,7 +19,7 @@ Digital
 --------------
 
 
-<b>[<span style="color:green">*About Me*</span>](https://about.me/dhirajneupane){:target="_blank"} </b>
+<b>[<span style="color:green">*about.me*</span>](https://about.me/dhirajneupane){:target="_blank"} </b>
 
 <b>[<span style="color:green">*Email*</span>](mailto:d.neupane@deakin.edu.au){:target="_blank"} </b>
 
@@ -27,4 +27,9 @@ Digital
 
 <b>[<span style="color:green">*LinkedIn*</span>](https://www.linkedin.com/in/dhiraj-neupane-6b3089113/){:target="_blank"} </b>
 
-<b>[<span style="color:green">*Research Gate*</span>](https://www.researchgate.net/profile/Dhiraj-Neupane){:target="_blank"} </b>
+<b>[<span style="color:green">*ResearchGate*</span>](https://www.researchgate.net/profile/Dhiraj-Neupane){:target="_blank"} </b>
+
+<b>[<span style="color:green">*ORCiD*</span>](https://orcid.org/
+0000-0001-6548-311X){:target="_blank"} </b>
+
+
