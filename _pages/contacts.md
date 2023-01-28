@@ -30,9 +30,5 @@ Digital
 
 QR Codes
 -----------
-| ![DN_linkedin.png](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/images/DN_linkedin.png) | 
-|:--:| 
-| *LinkedIN* |
-
-
+{% include image.html url="/images/DN_ORCID.png" description="ORCiD" %}
 
