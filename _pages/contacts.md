@@ -29,7 +29,6 @@ Digital
 
 <b>[<span style="color:green">*ResearchGate*</span>](https://www.researchgate.net/profile/Dhiraj-Neupane){:target="_blank"} </b>
 
-<b>[<span style="color:green">*ORCiD*</span>](https://orcid.org/
-0000-0001-6548-311X){:target="_blank"} </b>
+<b>[<span style="color:green">*ORCiD*</span>](https://orcid.org/0000-0001-6548-311X){:target="_blank"} </b>
 
 
