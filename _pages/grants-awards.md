@@ -17,6 +17,7 @@ redirect_from:
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
 
 ## Certificates
-* Course completion certificate for completing the course "Introduction to Computer Vision and Image Processing" by Coursera [March 3, 2022]
-* Certificate of Reviewing awarded by Applied Soft Computing Journal in the recognition of the review contributed to the journal [October 2021]
-* Course completion certificate for completing the course "Research ethics for graduate students (Science and Engineering)" taken by Korea Institute of Human Resources Development in Science & Technology [12 April 2020]
+* Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_ in the recognition of the review contributed to the journal [January 2023]
+* Course completion certificate for completing the course _Introduction to Computer Vision and Image Processing_ by Coursera [March 3, 2022]
+* Certificate of Reviewing awarded by _Applied Soft Computing Journal_ in the recognition of the review contributed to the journal [October 2021]
+* Course completion certificate for completing the course _Research ethics for graduate students (Science and Engineering)_ taken by Korea Institute of Human Resources Development in Science & Technology [12 April 2020]
