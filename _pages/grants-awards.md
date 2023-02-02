@@ -17,8 +17,13 @@ redirect_from:
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
 
 ## Certificates
-* Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_ in the recognition of the review contributed to the journal [February 2023]
+* [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [February 2023]
 * Certificate of Reviewing awarded by _Springer Nature_ in the recognition of the review contributed to the journal [September 2022]
 * Course completion certificate for completing the course _Introduction to Computer Vision and Image Processing_ by Coursera [March 3, 2022]
 * Certificate of Reviewing awarded by _Applied Soft Computing Journal_ in the recognition of the review contributed to the journal [October 2021]
 * Course completion certificate for completing the course _Research ethics for graduate students (Science and Engineering)_ taken by Korea Institute of Human Resources Development in Science & Technology [12 April 2020]
+
+
+
+
+----------------
