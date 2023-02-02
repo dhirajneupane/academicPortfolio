@@ -17,7 +17,7 @@ redirect_from:
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
 
 ## Certificates
-* Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_ in the recognition of the review contributed to the journal [January 2023]
+* Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_ in the recognition of the review contributed to the journal [February 2023]
 * Certificate of Reviewing awarded by _Springer Nature_ in the recognition of the review contributed to the journal [September 2022]
 * Course completion certificate for completing the course _Introduction to Computer Vision and Image Processing_ by Coursera [March 3, 2022]
 * Certificate of Reviewing awarded by _Applied Soft Computing Journal_ in the recognition of the review contributed to the journal [October 2021]
