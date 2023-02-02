@@ -26,4 +26,4 @@ redirect_from:
 Certificates
 ----------------
 * [<span style="color:green">Course completion certificate for completing the course _Introduction to Computer Vision and Image Processing_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_completion-certificate-for-introduction-to-activity-6905100833835380736-Kd_U?utm_source=share&utm_medium=member_desktop){:target="_blank"} by Coursera [March 2022]
-* * Course completion certificate for completing the course _Research ethics for graduate students (Science and Engineering)_ taken by Korea Institute of Human Resources Development in Science & Technology [April 2020]
+* Course completion certificate for completing the course _Research ethics for graduate students (Science and Engineering)_ taken by Korea Institute of Human Resources Development in Science & Technology [April 2020]
