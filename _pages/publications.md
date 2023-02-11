@@ -21,7 +21,7 @@ Conference papers
 
 Pre-prints
 -------------
-* <b>Neupane Dhiraj</b>, Bhattarai Aashish, Aryal Sunil, Bouadjenek M. Reda. , Seok, Uk Min, and Jongwon Seok. “SHINE: Deep Learning-Based Accessible Parking Management System.” <i> arXiv</i>, 2023, [<span style="color:green">*DOI:https://doi.org/10.48550/arXiv.2302.00837*</span>](https://arxiv.org/abs/2302.00837v1)/){:target="_blank"}.
+* <b>Neupane Dhiraj</b>, Bhattarai Aashish, Aryal Sunil, Bouadjenek M. Reda. , Seok, Uk Min, and Jongwon Seok. “SHINE: Deep Learning-Based Accessible Parking Management System.” <i> arXiv</i>, 2023, [<span style="color:green">*DOI:https://doi.org/10.48550/arXiv.2302.00837*</span>](https://arxiv.org/abs/2302.00837v1){:target="_blank"}.
 
 Thesis
 --------------------------
