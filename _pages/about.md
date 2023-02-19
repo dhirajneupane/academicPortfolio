@@ -20,7 +20,8 @@ Apart from academics, I was also involved in various clubs and organizations. I 
 My research interests include machine learning, deep learning, intelligent fault detection, sonar signal processing, computer vision, object detection, and classification. I have published few articles in high-tier journals. You can check them at [Publication](https://www.dhirajneupane.com.np/publications/){:target="_blank"} section or at my [Google Scholar Profile](https://scholar.google.com/citations?user=KtSkA68AAAAJ&hl=en){:target="_blank"}.
 
 ## Current advancement
-* Participated in [HUMS Helicopter Data challegene](https://humsconference.com.au/HUMS2023datachallenge/){:target="_blank"} organized by DSTG, Australia
-* [Pre-print](https://arxiv.org/abs/2302.00837v1) accepted in arXiv
+* Working with Children Check Certification [20 Feb 2023]
+* Participated in [HUMS Helicopter Data challegene](https://humsconference.com.au/HUMS2023datachallenge/){:target="_blank"} organized by DSTG, Australia [2022 - 2023]
+* [Pre-print](https://arxiv.org/abs/2302.00837v1) accepted in arXiv [2 Feb 2023]
 
 
