@@ -11,7 +11,7 @@ redirect_from:
 
 > <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
 
-Hello, नमस्ते, 안녕하세요. I am [Dhiraj Neupane](https://g.co/kgs/DLknVq). You can call me Dhiraj, 디라지 or Dj whichever you find easier. 
+Hello, नमस्ते, 안녕하세요. I am [Dhiraj Neupane](https://g.co/kgs/DLknVq). You can call me Dhiraj, 디라지 or DJ whichever you find easier. 
 
 I am working as a PhD student in [MLDS lab](https://deakin-mlds.github.io/index.html), [Deakin University](https://www.deakin.edu.au/about-deakin/people/dhiraj-neupane). I received my Master's degree in Information and Communication Engineering from [Changwon National University, South Korea](https://www.changwon.ac.kr/eng/main.do){:target="_blank"}, in 2021, and my Bachelor's degree in Electrical and Electronics Engineering from [Kathmandu University, Nepal](https://ku.edu.np/){:target="_blank"}, in 2016. I worked as a Researcher at [IPCamp, South Korea](http://www.ipcamp.co.kr){:target="_blank"} from September 1, 2021 to August 31, 2022. Before this, I worked as a Graduate Research Assistant at the [Department of Information and Communication Engineering, Changwon National Unversity](https://www.changwon.ac.kr/eng/cm/cntnts/cntntsView.do?mi=11228&cntntsId=4240){:target="_blank"}. I also worked as an Operation Assistant at [Nepal Electronic Payment Systems Ltd., Nepal](https://neps.com.np/){:target="_blank"}.
 
