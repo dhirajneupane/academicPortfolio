@@ -27,4 +27,4 @@ Thank you for taking the time to read about me, and I look forward to connecting
 
 ## Current advancement
 * Involved in [The International Students Lounge](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_
-* Attended the workshop [Geelong Nepalese Association - Leadership Development Program](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"} </b>, _Geelong, Australia_ on 20 May, 2023
+* Attended the workshop [Geelong Nepalese Association - Leadership Development Program](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"}, _Geelong, Australia_ on 20 May, 2023
