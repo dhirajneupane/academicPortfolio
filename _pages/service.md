@@ -33,5 +33,5 @@ Other Experiences
 Involvement in Clubs and Community Services
 -----------------------
 * Involved in The International Students Lounge, _Geelong, Australia_ [June 2023 - Present] <b>[<span style="color:green">*link*</span>](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"} </b>
-* Registered member of Geelong Nepalese Association (GNA), _Geelong, Australia_ [December 2022 - Present]<b>[<span style="color:green">*link*</span>](https://www.facebook.com/photo?fbid=619993143486571&set=pcb.619994100153142){:target="_blank"} </b> 
+* Registered member of Geelong Nepalese Association (GNA), _Geelong, Australia_ [December 2022 - Present] <b>[<span style="color:green">*link*</span>](https://www.facebook.com/photo?fbid=619993143486571&set=pcb.619994100153142){:target="_blank"} </b> 
 * Registered memeber of Greater Geelong Nepalese Association (GGNEC), _Geelong, Australia_ [October 2022 - Present]
