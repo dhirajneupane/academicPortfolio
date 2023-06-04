@@ -26,7 +26,7 @@ Internships
 
 Other Experiences
 -----------------------
-* <b>[<span style="color:green">President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, Kathmandu University_ [2015 - 2016]
+* <b>[<span style="color:green">*President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, Kathmandu University_ [2015 - 2016]
 * **Joint- Secretary** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2014 - 2015]
 * **Executive Member** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2013 - 2014]
 
