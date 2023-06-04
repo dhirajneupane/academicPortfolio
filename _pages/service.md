@@ -21,10 +21,10 @@ Professional Experiences
 
 Conferences, Workshops and Trainings
 ------------------------------------
-* Attended the workshop <b>[<span style="color:green">*Geelong Nepalese Association - Leadership Development Program*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"} </b>, Geelong, Australia_ [20 May, 2023]
-* Attended and particiapted in <b>[<span style="color:green">*Australian International Aerospace Congress (AIAC20) and HUMS Data Challenge*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Certificate%20of%20Attendance%20-%20AIAC20.pdf){:target="_blank"} </b>, _Melbourne, Australia_ [27-28 February, 2023]
-* Attended <b>[<span style="color:green">*Centre for Cyber Security Research and Innovation's (CSRI) Annual Conference*</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_csri2022-deakinuniversity-conference-activity-7009026358890700801-R2vp?utm_source=share&utm_medium=member_desktop){:target="_blank"} </b>, _Melbourne, Australia_ [14-15 December, 2022]
-* Attended and participated in <b>[<span style="color:green">*ICTC2020 - International Conference on ICT Convergence*</span>](https://ieeexplore.ieee.org/document/9289232){:target="_blank"} </b>, _Jeju, south Korea_ [21-23 October, 2020]
+* Attended the workshop <b>[<span style="color:green">*Geelong Nepalese Association - Leadership Development Program*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"}</b>, _Geelong, Australia_ [20 May, 2023]
+* Attended and particiapted in <b>[<span style="color:green">*Australian International Aerospace Congress (AIAC20) and HUMS Data Challenge*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Certificate%20of%20Attendance%20-%20AIAC20.pdf){:target="_blank"}</b>, _Melbourne, Australia_ [27-28 February, 2023]
+* Attended <b>[<span style="color:green">*Centre for Cyber Security Research and Innovation's (CSRI) Annual Conference*</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_csri2022-deakinuniversity-conference-activity-7009026358890700801-R2vp?utm_source=share&utm_medium=member_desktop){:target="_blank"}</b>, _Melbourne, Australia_ [14-15 December, 2022]
+* Attended and participated in <b>[<span style="color:green">*ICTC2020 - International Conference on ICT Convergence*</span>](https://ieeexplore.ieee.org/document/9289232){:target="_blank"}</b>, _Jeju, south Korea_ [21-23 October, 2020]
 
 Internships
 -----------------------
