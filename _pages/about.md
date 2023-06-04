@@ -26,7 +26,7 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* <b>[<span style="color:green">*Involved in The International Students Lounge*</span>](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_ [June 2023 - Present] </b>
+* [Involved in The International Students Lounge](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_ [June 2023 - Present]
 * Participated in [HUMS Helicopter Data challegene](https://humsconference.com.au/HUMS2023datachallenge/){:target="_blank"} organized by DSTG, Australia [27 Feb 2023]
 * Working with Children Check Certification [20 Feb 2023]
 * [Pre-print](https://arxiv.org/abs/2302.00837v1) accepted in arXiv [2 Feb 2023]
