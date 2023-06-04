@@ -26,10 +26,5 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Involved in [The International Students Lounge](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_ [June 2023 - Present]
-* Participated in [HUMS Helicopter Data challegene](https://humsconference.com.au/HUMS2023datachallenge/){:target="_blank"} organized by DSTG, Australia [27 Feb 2023]
-* Working with Children Check Certification [20 Feb 2023]
-* [Pre-print](https://arxiv.org/abs/2302.00837v1) accepted in arXiv [2 Feb 2023]
-
-
-
+* Involved in [The International Students Lounge](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_
+* Attended the workshop <b>[<span style="color:green">*Geelong Nepalese Association - Leadership Development Program*</span>](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"} </b>, Geelong, Australia_ [27-28 February, 2023]
