@@ -13,8 +13,8 @@ main:
   - title: "Experiences and Involvements"
     url: /service/
     
-  - title: "Poetry"
-    url: https://www.er-dhiraj.com.np/posts/
+  # - title: "Poetry"
+  #  url: https://www.er-dhiraj.com.np/posts/
     
   - title: "CV"
     url: /files/CV_Dhiraj_Web.pdf
