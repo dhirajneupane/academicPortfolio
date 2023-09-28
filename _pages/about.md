@@ -26,6 +26,6 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Certificate of Reviewing awarded by _Bentham Science Publishers_ in the recognition of the review contributed to the journal [June 2023] 
-* Involved in [The International Students Lounge](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_
-* Attended the workshop [Geelong Nepalese Association - Leadership Development Program](https://github.com/dhirajneupane/AcademicPortfolio/blob/main/files/Neupane_Dhiarj_leadership.pdf){:target="_blank"}, _Geelong, Australia_ on 20 May, 2023
+* Successful confiramtion of the PhD candidature [Septemeber 2023]
+* Program Committee member for _The 10th International Conference on Social Networks Analysis, Management and Security(SNAMS-2023)_ [September 2023]
+* Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>]([https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop](https://journalofbigdata.springeropen.com/)){:target="_blank"} [September 2023]
