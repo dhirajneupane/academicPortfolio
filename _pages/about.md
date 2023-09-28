@@ -28,4 +28,4 @@ Thank you for taking the time to read about me, and I look forward to connecting
 ## Current advancement
 * Successful confiramtion of the PhD candidature [Septemeber 2023]
 * Program Committee member for _The 10th International Conference on Social Networks Analysis, Management and Security(SNAMS-2023)_ [September 2023]
-* Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>]([https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop](https://journalofbigdata.springeropen.com/)){:target="_blank"} [September 2023]
+*Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>](https://journalofbigdata.springeropen.com/){:target="_blank"} [September 2023]
