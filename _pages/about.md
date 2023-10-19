@@ -28,4 +28,4 @@ Thank you for taking the time to read about me, and I look forward to connecting
 ## Current advancement
 * Acceptance of manuscript** _Shine_: Deep Learning-Based Accessible Parking Management System** in Expert Systems with Applications
 * Successful confiramtion of the PhD candidature [Septemeber 2023]
-*Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>](https://journalofbigdata.springeropen.com/){:target="_blank"} [September 2023]
+* Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>](https://journalofbigdata.springeropen.com/){:target="_blank"} [September 2023]
