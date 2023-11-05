@@ -21,9 +21,10 @@ Conference papers
 ----------------------------
 * <b>Neupane Dhiraj</b>, and Jongwon Seok. “Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence.” <i>2020 International Conference on Information and Communication Technology Convergence (ICTC), IEEE</i>, 2020, pp. 562–66, [<span style="color:green">*DOI:10.1109/ICTC49870.2020.9289232*</span>](https://ieeexplore.ieee.org/abstract/document/9289232/){:target="_blank"}.
 
-Pre-prints
+<!-- Pre-prints
 -------------
 * <b>Neupane Dhiraj</b>, Bhattarai Aashish, Aryal Sunil, Bouadjenek M. Reda. , Seok, Uk Min, and Jongwon Seok. “SHINE: Deep Learning-Based Accessible Parking Management System.” <i> arXiv</i>, 2023, [<span style="color:green">*DOI:https://doi.org/10.48550/arXiv.2302.00837*</span>](https://arxiv.org/abs/2302.00837v1){:target="_blank"}.
+-->
 
 Thesis
 --------------------------
