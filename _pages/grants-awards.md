@@ -17,6 +17,7 @@ redirect_from:
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
 
 ## Reviewer and PC Member
+* Reviewer of [Journal of Marine Science and Engineering](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_DN_JSME.pdf){:target="_blank"} [October 2023]
 * Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature_</span>](https://journalofbigdata.springeropen.com/){:target="_blank"} [September 2023]
 * Certificate of Reviewing awarded by _Bentham Science Publishers_ in the recognition of the review contributed to the journal [June 2023] 
 * [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [February 2023]
