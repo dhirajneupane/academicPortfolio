@@ -22,7 +22,7 @@ Digital
 
 <b>[<span style="color:green">*Github*</span>](https://github.com/dhirajneupane){:target="_blank"} </b>
 
-<b>[<span style="color:green">*LinkedIn*</span>](https://www.linkedin.com/in/dhiraj-neupane-6b3089113/){:target="_blank"} </b>
+<b>[<span style="color:green">*LinkedIn*</span>](https://www.linkedin.com/in/dhirajneupane/){:target="_blank"} </b>
 
 <b>[<span style="color:green">*ResearchGate*</span>](https://www.researchgate.net/profile/Dhiraj-Neupane){:target="_blank"} </b>
 
