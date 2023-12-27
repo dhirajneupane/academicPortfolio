@@ -49,5 +49,5 @@ Other Experiences
 
 Involvement in Clubs and Community Services
 -----------------------
-* Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West for the year 2023-2025
+* Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
 * <b>[<span style="color:green">*Executive member of Geelong Nepalese Association (GNA)*</span>](https://gna.org.au/about-us/){:target="_blank"}, _Geelong, Australia_ [December 2022 - Present]  </b> 
