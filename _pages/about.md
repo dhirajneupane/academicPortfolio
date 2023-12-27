@@ -26,5 +26,4 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Reviewer of [Journal of Marine Science and Engineering](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_DN_JSME.pdf){:target="_blank"} [October 2023]
-* Acceptance of manuscript _Shine_: Deep Learning-Based Accessible Parking Management System in Expert Systems with Applications [October 2023]
+* Reviewer of an article for [Sensors](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [October 2023]
