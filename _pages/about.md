@@ -27,4 +27,4 @@ Thank you for taking the time to read about me, and I look forward to connecting
 
 ## Current advancement
 * Reviewer of an article for [Sensors](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [December 2023]
-* * Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
+* Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
