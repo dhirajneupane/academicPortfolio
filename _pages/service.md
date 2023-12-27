@@ -41,8 +41,6 @@ Conferences, Workshops and Trainings
 Internships
 -----------------------
 * Subisu Cablenet Pvt. Ltd, Nepal [August 2016 - September 2016]
-
-
 Other Experiences
 -----------------------
 * <b>[<span style="color:green">*President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, _Kathmandu University_ [2015 - 2016]
@@ -51,6 +49,5 @@ Other Experiences
 
 Involvement in Clubs and Community Services
 -----------------------
-* <b>[<span style="color:green">*Involved in The International Students Lounge*</span>](https://www.facebook.com/photo/?fbid=131124969984922&set=pcb.131125976651488){:target="_blank"}, _Geelong, Australia_ [June 2023 - Present] </b>
-* <b>[<span style="color:green">*Registered member of Geelong Nepalese Association (GNA)*</span>](https://www.facebook.com/photo?fbid=619993143486571&set=pcb.619994100153142){:target="_blank"}, _Geelong, Australia_ [December 2022 - Present]  </b> 
-* Registered memeber of Greater Geelong Nepalese Association (GGNEC), _Geelong, Australia_ [October 2022 - Present]
+* Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West for the year 2023-2025
+* <b>[<span style="color:green">*Executive member of Geelong Nepalese Association (GNA)*</span>](https://gna.org.au/about-us/){:target="_blank"}, _Geelong, Australia_ [December 2022 - Present]  </b> 
