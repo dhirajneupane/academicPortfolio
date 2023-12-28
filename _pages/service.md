@@ -41,6 +41,7 @@ Conferences, Workshops and Trainings
 Internships
 -----------------------
 * Subisu Cablenet Pvt. Ltd, Nepal [August 2016 - September 2016]
+
 Other Experiences
 -----------------------
 * <b>[<span style="color:green">*President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, _Kathmandu University_ [2015 - 2016]
