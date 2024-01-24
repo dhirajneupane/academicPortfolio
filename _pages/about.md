@@ -26,5 +26,6 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
+* Reviewer of an article for [<span style="color:green">Animals</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_animals.pdf){:target="_blank"} [January 2024]
 * Reviewer of an article for [Sensors](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [December 2023]
 * Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
