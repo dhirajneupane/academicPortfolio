@@ -20,6 +20,7 @@ Professional Experiences
 * **Secondary-Level School Teacher** at _Shree Marigold Academy Vidhya Mandir, Nepal_ [October 2016 - April 2018]
 
 ## Reviewer and PC Member
+* Reviewer of an article for [<span style="color:green">Animals</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_animals.pdf){:target="_blank"} [January 2024]
 * Reviewer of an article for [<span style="color:green">Sensors</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [December 2023]
 * Reviewer of an article for [<span style="color:green">Journal of Marine Science and Engineering</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_DN_JSME.pdf){:target="_blank"} [October 2023]
 * Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature </span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_journalOfBigData.pdf){:target="_blank"} [September 2023]
