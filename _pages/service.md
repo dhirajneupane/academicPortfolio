@@ -45,6 +45,8 @@ Internships
 
 Other Experiences
 -----------------------
+* Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
+* <b>[<span style="color:green">*Executive Memeber of Geelong Nepalese Association*</span>](https://gna.org.au/about-us/){:target="_blank"} </b>, _Geelong,  Australia_ [2023 - 2024]
 * <b>[<span style="color:green">*President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, _Kathmandu University_ [2015 - 2016]
 * **Joint- Secretary** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2014 - 2015]
 * **Executive Member** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2013 - 2014]
