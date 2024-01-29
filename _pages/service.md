@@ -24,11 +24,12 @@ Professional Experiences
 * Reviewer of an article for [<span style="color:green">Sensors</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [December 2023]
 * Reviewer of an article for [<span style="color:green">Journal of Marine Science and Engineering</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_DN_JSME.pdf){:target="_blank"} [October 2023]
 * Reviewer of an article in [<span style="color:green">Journal of Big Data, Springer Nature </span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_journalOfBigData.pdf){:target="_blank"} [September 2023]
-* Certificate of Reviewing awarded by _Bentham Science Publishers_ in the recognition of the review contributed to the journal [June 2023] 
-* [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [February 2023]
+* Certificate of Reviewing awarded by _Bentham Science Publishers_ in the recognition of the review contributed to the journal [June 2023]
+* Program Committee member for _The AICCSA2023 (20th ACS/IEEE International Conference on Computer Systems and Applications)_ [April 2023] 
 * Certificate of Reviewing awarded by _Springer Nature_ in the recognition of the review contributed to the journal [September 2022]
 * Program Committee member for _The 19th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2022)_ [August 2022]
 * Subreviewer for _The 29th International Conference on Neural Information Processing (ICONIP 2022)_ [August 2022]
+* * [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [January 2022]
 * [<span style="color:green">Certificate of Reviewing awarded by _Applied Soft Computing Journal_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_reviewer-moretocome-activity-6893943586119933952-xgCN?utm_source=share&utm_medium=member_desktop) in the recognition of the review contributed to the journal [October 2021]
 
 
@@ -47,6 +48,6 @@ Involvement in Clubs, Community Services and Other Experiences,
 -----------------------
 * Victorian Multicultural Comission's Regional Advisory Council (RAC) member of Barwon South-West [2023-2025]
 * <b>[<span style="color:green">*Executive member of Geelong Nepalese Association (GNA)*</span>](https://gna.org.au/about-us/){:target="_blank"}, _Geelong, Australia_ [December 2022 - Present]  </b> 
-* <b>[<span style="color:green">*President of _Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, _Kathmandu University_ [2015 - 2016]
+* <b>[<span style="color:green">*President of Society of Electrical and Electronics Engineers (SEEE)*</span>](https://seee.ku.edu.np/board-members-2015-16/){:target="_blank"} </b>, _Kathmandu University_ [2015 - 2016]
 * **Joint- Secretary** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2014 - 2015]
 * **Executive Member** of _Amnesty International Kathmandu University Youth Network (AIKUYN)_ [2013 - 2014]
