@@ -29,7 +29,7 @@ Professional Experiences
 * Certificate of Reviewing awarded by _Springer Nature_ in the recognition of the review contributed to the journal [September 2022]
 * Program Committee member for _The 19th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2022)_ [August 2022]
 * Subreviewer for _The 29th International Conference on Neural Information Processing (ICONIP 2022)_ [August 2022]
-* * [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [January 2022]
+* [<span style="color:green">Certificate of Reviewing awarded by _IEEE Transactions on Industrial Electronics_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_ieee-reviewer-activity-7026848069040160768-Ltda?utm_source=share&utm_medium=member_desktop){:target="_blank"} in the recognition of the review contributed to the journal [January 2022]
 * [<span style="color:green">Certificate of Reviewing awarded by _Applied Soft Computing Journal_</span>](https://www.linkedin.com/posts/dhiraj-neupane-6b3089113_reviewer-moretocome-activity-6893943586119933952-xgCN?utm_source=share&utm_medium=member_desktop) in the recognition of the review contributed to the journal [October 2021]
 
 
