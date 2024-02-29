@@ -26,7 +26,7 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Reviewer of an article for [<span style="color:green">Scientific Reports</span>](https://www.nature.com/srep/){:target="_blank"}[February 2024] 
-* Reviewer of an article for [<span style="color:green">Symmetry</span>](https://www.mdpi.com/journal/symmetry){:target="_blank"}[February 2024]
+* Reviewer of an article for [<span style="color:green">Scientific Reports</span>](https://www.nature.com/srep/){:target="_blank"} [February 2024] 
+* Reviewer of an article for [<span style="color:green">Symmetry</span>](https://www.mdpi.com/journal/symmetry){:target="_blank"} [February 2024]
 * Reviewer of an article for [Animals](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_animals.pdf){:target="_blank"} [January 2024]
 * Reviewer of an article for [Sensors](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_sesnor.pdf){:target="_blank"} [December 2023]
