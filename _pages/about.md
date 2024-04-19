@@ -26,5 +26,5 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Reviewer of an article for [<span style="color:green">IEEE Access</span>]([https://link.springer.com/journal/11760](https://ieeeaccess.ieee.org/)
+* Reviewer of an article for [<span style="color:green">IEEE Access</span>](https://ieeeaccess.ieee.org/)
 * Reviewer of an article for [<span style="color:green">Signal, Image and Video Processing</span>](https://link.springer.com/journal/11760){:target="_blank"} [March 2024]
