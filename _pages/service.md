@@ -21,7 +21,7 @@ Professional Experiences
 
 ## Reviewer and PC Member
 * Reviewer of an article for [<span style="color:green">IEEE Access</span>](https://ieeeaccess.ieee.org/){:target="_blank"} [April 2024]
-* Reviewer of an article for [<span style="color:green">Signal, Image and Video Processing</span>](https://link.springer.com/journal/11760){:target="_blank"} [March 2024] )){:target="_blank"} [March 2024] 
+* Reviewer of an article for [<span style="color:green">Signal, Image and Video Processing</span>](https://link.springer.com/journal/11760){:target="_blank"} [March 2024] 
 * Reviewer of an article for [<span style="color:green">Scientific Reports</span>](https://www.nature.com/srep/){:target="_blank"} [February 2024] 
 * Reviewer of an article for [<span style="color:green">Symmetry</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_DN_Symmetry.pdf){:target="_blank"} [February 2024]
 * Reviewer of an article for [<span style="color:green">Animals</span>](https://github.com/dhirajneupane/academicPortfolio/blob/main/files/ReviewerCertificates/RC_animals.pdf){:target="_blank"} [January 2024]
