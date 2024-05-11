@@ -14,6 +14,7 @@ redirect_from:
 Professional Experiences
 -----------------------
 * **PhD Research Student** at _School of IT, Deakin University, Geelong. Australia_ [October 2022- Present]
+* **Casual Sessional Academic** for SIT112 - Introduction to Data Science and Artificial Intelligence at _School of IT, Deakin University, Geelong. Australia_ [March 2024 - June 2024]
 * **Deep Learning Researcher** at _IPCamp, South Korea_ [September 2021 - August 2022]
 * **Graduate Research Assistant** at _Department of Information and Communcation Engineering, Changwon National University, South Korea_ [March 2019 - February 2021]
 * **Operation Assistant** at _Nepal Electronic Payment Systems, Nepal_ [April 2018 - February 2019]
