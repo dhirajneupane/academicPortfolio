@@ -18,10 +18,16 @@ Journal articles
  
 Conference papers
 ----------------------------
-***Neupane Dhiraj**, et al. "A Comparative Study of Semi-Supervised Anomaly Detection Methods for Machine Fault Detection." PHM Society European Conference. Vol. 8. No. 1. 2024, [<span style="color:green">*https://www.papers.phmsociety.org/index.php/phme/article/view/4053*</span>](
+* **Neupane Dhiraj**, et al. "A Comparative Study of Semi-Supervised Anomaly Detection Methods for Machine Fault Detection." PHM Society European Conference. Vol. 8. No. 1. 2024, [<span style="color:green">*https://www.papers.phmsociety.org/index.php/phme/article/view/4053*</span>](
 https://www.papers.phmsociety.org/index.php/phme/article/view/4053){:target="_blank"}.
 * <b>Neupane Dhiraj</b>, and Jongwon Seok. “Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence.” <i>2020 International Conference on Information and Communication Technology Convergence (ICTC), IEEE</i>, 2020, pp. 562–66, [<span style="color:green">*10.1109/ICTC49870.2020.9289232*</span>](
 https://ieeexplore.ieee.org/abstract/document/9289232){:target="_blank"}.
+
+Doctoral Symposium
+-------------
+* Neupane, Dhiraj, et al. "Machinery Fault Detection using Advanced Machine Learning Techniques." PHM Society European Conference. Vol. 8. No. 1. 2024, [<span style="color:green">*https://www.papers.phmsociety.org/index.php/phme/article/view/3947*</span>](https://www.papers.phmsociety.org/index.php/phme/article/view/3947){:target="_blank"}
+
+
 
 Pre-prints
 -------------
