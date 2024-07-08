@@ -13,7 +13,7 @@ redirect_from:
 * Sejong University Industry-Academic Cooperation Grant [2019]
 
 ## Achievements
-* Selection in Doctoral (total selections: 8) Symposium of PHME2024 (Resulting in waiver of conference fee) 
+* Selection in Doctoral (total selections: 8) Symposium of 'the 8th European Conference of the PHM Society (PHME2024)', (Resulting in waiver of conference fee) 
 * Higher Distinction in MS degree [2021]
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
 
