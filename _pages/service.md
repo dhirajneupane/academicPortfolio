@@ -21,6 +21,7 @@ Professional Experiences
 * **Secondary-Level School Teacher** at _Shree Marigold Academy Vidhya Mandir, Nepal_ [October 2016 - April 2018]
 
 ## Reviewer and PC Member
+* Program Committee member for _The AICCSA2024 (21st ACS/IEEE International Conference on Computer Systems and Applications)_ [July 2024] 
 * Reviewer of an article for [<span style="color:green">Discover Applied Sciences</span>](https://link.springer.com/journal/42452){:target="_blank"} [May 2024] 
 * Reviewer of an article for [<span style="color:green">Electronics</span>](https://www.mdpi.com/journal/electronics/about){:target="_blank"} [April 2024]
 * Reviewer of an article for [<span style="color:green">IEEE Access</span>](https://ieeeaccess.ieee.org/){:target="_blank"} [April 2024]
