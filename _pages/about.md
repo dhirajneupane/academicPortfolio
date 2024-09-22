@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 > <p style='text-align: center;'>  Never confuse education with intelligence, you can have a PhD and still be an idiot.</p>
-> <p style='text-align: right;'> I disapprove of what You say, but I will defend to the death your right to say it. </p>
-> <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
-> <p style='text-align: left;'> In life, there comes a time when one must decide whether to turn the page or close the book. </p>
 
 Greetings, and welcome to my portfolio!
 
@@ -32,3 +29,8 @@ Thank you for taking the time to read about me, and I look forward to connecting
 * Reviewer of an article for [<span style="color:green">Electronics</span>](https://www.mdpi.com/journal/electronics/about){:target="_blank"} [April 2024]
 * Reviewer of an article for [<span style="color:green">IEEE Access</span>](https://ieeeaccess.ieee.org/){:target="_blank"} [April 2024]
 * Reviewer of an article for [<span style="color:green">Signal, Image and Video Processing</span>](https://link.springer.com/journal/11760){:target="_blank"} [March 2024]
+
+## Inspiring Quotes
+> <p style='text-align: right;'> I disapprove of what You say, but I will defend to the death your right to say it. </p>
+> <p style='text-align: right;'> No matter where you are, always remember where you were (my own). </p>
+> <p style='text-align: left;'> In life, there comes a time when one must decide whether to turn the page or close the book. </p>
