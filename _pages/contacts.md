@@ -7,6 +7,8 @@ author_profile: true
 redirect_from: 
   - /contacts
 ---
+> <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
+
 Physical
 --------------
 Belmont, VIC, Australia [Current]
