@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> Never confuse education with intelligence, you can have a PhD and still be an idiot.
+> <p style='text-align: left;'>  Never confuse education with intelligence, you can have a PhD and still be an idiot.
 
-> <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
+> <p style='text-align: center;'> No matter where you are, always remember where you were. </p>
+
+> <p style='text-align: left;'> No matter where you are, always remember where you were. </p>In life, there comes a time when one must decide whether to turn the page or close the book.
 
 Greetings, and welcome to my portfolio!
 
