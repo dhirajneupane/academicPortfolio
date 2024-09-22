@@ -11,7 +11,7 @@ redirect_from:
 
 > <p style='text-align: center;'> No matter where you are, always remember where you were. </p>
 
-> <p style='text-align: left;'> In life, there comes a time when one must decide whether to turn the page or close the book. </p>
+> <p style='text-align: right;'> In life, there comes a time when one must decide whether to turn the page or close the book. </p>
 
 Greetings, and welcome to my portfolio!
 
