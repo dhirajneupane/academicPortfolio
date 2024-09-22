@@ -10,6 +10,7 @@ redirect_from:
 
 > <p style='text-align: center;'>  Never confuse education with intelligence, you can have a PhD and still be an idiot.</p>
 > <p style='text-align: right;'> I disapprove of what You say, but I will defend to the death your right to say it. </p>
+> <p style='text-align: right;'> No matter where you are, always remember where you were. </p>
 
 Greetings, and welcome to my portfolio!
 
