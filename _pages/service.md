@@ -1,3 +1,5 @@
+> <p style='text-align: right;'> I disapprove of what You say, but I will defend to the death your right to say it </p>
+
 ---
 layout: archive
 title: "Experiences and Involvements"
@@ -9,8 +11,6 @@ redirect_from:
 
 
 {% include base_path %}
-
-> <p style='text-align: right;'> I disapprove of what You say, but I will defend to the death your right to say it </p>
 
 
 Professional Experiences
