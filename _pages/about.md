@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> <p style='text-align: left;'>  Never confuse education with intelligence, you can have a PhD and still be an idiot.
+> <p style='text-align: right;'>  Never confuse education with intelligence, you can have a PhD and still be an idiot.
 
 > <p style='text-align: center;'> No matter where you are, always remember where you were. </p>
 
