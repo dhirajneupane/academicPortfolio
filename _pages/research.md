@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /research
 ---
-> <p style='text-align: left;'> In life, there comes a time when one must decide whether to turn the page or close the book. </p>
 
 Research Interest
 -----------------
