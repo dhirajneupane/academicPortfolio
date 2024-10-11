@@ -1,5 +1,3 @@
-
-
 ---
 layout: archive
 title: "Experiences and Involvements"
@@ -8,9 +6,6 @@ author_profile: true
 redirect_from:
   - /service
 ---
-
-
-{% include base_path %}
 
 Professional Experiences
 -----------------------
