@@ -12,7 +12,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 Professional Experiences
 -----------------------
 * **PhD Research Student** at _School of IT, Deakin University, Geelong. Australia_ [October 2022- Present]
