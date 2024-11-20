@@ -13,7 +13,7 @@ redirect_from:
 * Sejong University Industry-Academic Cooperation Grant [2019]
 
 ## Achievements
-* Selected as one of the [<span style="color:green">Top 10 Presenters_</span>](https://www.linkedin.com/feed/update/urn:li:activity:7264019927047503874/){:target="_blank"} at the Annual SIT HDR Conference [November 2024]
+* Selected as one of the [<span style="color:green">Top 10 Presenters</span>](https://www.linkedin.com/feed/update/urn:li:activity:7264019927047503874/){:target="_blank"} at the Annual SIT HDR Conference [November 2024]
 * Selection in Doctoral (total selections: 8) Symposium of 'the 8th European Conference of the PHM Society (PHME2024)', (Resulting in waiver of conference fee) 
 * Higher Distinction in MS degree [2021]
 * School Topper in National-Level SLC (School Leaving Certificate) Exam [2010]
