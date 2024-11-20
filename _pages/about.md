@@ -28,10 +28,7 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Reviewer of an article for [<span style="color:green">Discover Applied Sciences</span>](https://link.springer.com/journal/42452){:target="_blank"} [May 2024]
-* Reviewer of an article for [<span style="color:green">Electronics</span>](https://www.mdpi.com/journal/electronics/about){:target="_blank"} [April 2024]
-* Reviewer of an article for [<span style="color:green">IEEE Access</span>](https://ieeeaccess.ieee.org/){:target="_blank"} [April 2024]
-* Reviewer of an article for [<span style="color:green">Signal, Image and Video Processing</span>](https://link.springer.com/journal/11760){:target="_blank"} [March 2024]
+* Selected as one of the _Top 10 Presenters_ at the Annual SIT HDR Conference [November 2024]
 
 ## Inspiring Quotes
 
