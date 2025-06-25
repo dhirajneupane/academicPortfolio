@@ -28,7 +28,7 @@ I believe that success is not just about individual accomplishments but also abo
 Thank you for taking the time to read about me, and I look forward to connecting with you soon.
 
 ## Current advancement
-* Selected as one of the _Top 10 Presenters_ at the Annual SIT HDR Conference [November 2024]
-
+* Awarded with People's choice for 3MT school of IT Heat [June 2025]
+* Selected for Summer School (fully funded) for SAC 2025 [May 2025]
 ## Inspiring Quotes
 
